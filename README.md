@@ -1,4 +1,4 @@
-# README: Nominal Data Encoding using One-Hot Encoding (OHE)
+# Nominal Data Encoding using One-Hot Encoding (OHE)
 
 ## Overview
 
